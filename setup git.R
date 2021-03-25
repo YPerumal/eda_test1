@@ -6,6 +6,6 @@ usethis::use_git_config(
     user.email = "yperumal@pm.me")
 
 usethis::create_github_token()
-fde62eb2580fd0c707b224c7c0a7125009119b5e
+973d118e947102fbd13255c69183cecba34de822
 
 usethis::edit_r_environ()
